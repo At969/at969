@@ -6,7 +6,7 @@
 <h1 align="center">👋 Bonjour, moi c’est Toussaint Agossou</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/toussaint-agossou/">
+  <a href="https://www.linkedin.com/in/toussaint-agossou-5aa048305/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:agossoutoussaint969@email.com">
