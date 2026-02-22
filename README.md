@@ -1,23 +1,23 @@
 # 👋 Bonjour, moi c’est Toussaint Agossou
 
-💻 Développeur Back-end spécialisé en Node.js & PostgreSQL  
+💻 Développeur Fullstack spécialisé en backend (Node.js & PostgreSQL)  
 🚀 Passionné par la conception d’APIs robustes, scalables et bien structurées  
-🌍 Disponible pour stage / collaboration remote  
+🌍 Disponible pour stage / collaboration remote et bien d'autres 
 
 ---
 
 ## 🧠 À propos de moi
 
-Je conçois et développe des architectures backend propres, maintenables et orientées performance.
+Je conçois et développe des application web et architectures backend propres, maintenables et orientées performance.
 
 Je travaille principalement avec :
 
 - Node.js (Express / Architecture REST)
 - PostgreSQL (modélisation, optimisation, indexation)
 - Authentification sécurisée (JWT, gestion de session)
-- Structuration avancée de projets backend
-- Intégration API ↔ Frontend
-- Logique métier complexe
+- Nextjs(combiner backend et frontend pour des projet simple)
+- Insomnia (test d'API)
+- python (django pour des backend web robuste )
 
 J’accorde une grande importance au :
 - Clean code
@@ -32,6 +32,8 @@ J’accorde une grande importance au :
 
 ### Backend
 - Node.js
+- Django
+- FastAPI
 - Express.js
 - REST API
 - JWT Authentication
@@ -46,7 +48,7 @@ J’accorde une grande importance au :
 
 ### DevOps & Outils
 - Git / GitHub
-- Postman
+- Insomnia
 - Docker (bases)
 - CI/CD (bases)
 - Linux
@@ -65,8 +67,7 @@ Backend complet avec :
 
 ### 👤 Système d’authentification avancé
 - Inscription avec validation email
-- Code de vérification
-- Mot de passe oublié
+- Code de vérification avant utilisation d'une fonctionnalité précise
 - Gestion de session sécurisée
 - Suppression de compte
 
@@ -75,7 +76,7 @@ Backend complet avec :
 ## 📈 Ce que je recherche
 
 Je souhaite intégrer une équipe tech dynamique afin de :
-- Renforcer mes compétences backend
+- Renforcer mes compétences en dev
 - Participer à des projets à fort impact
 - Approfondir les pratiques DevOps
 - Travailler sur des architectures scalables
@@ -84,10 +85,7 @@ Je souhaite intégrer une équipe tech dynamique afin de :
 
 ## 📫 Me contacter
 
-📧 Email : tonemail@email.com  
-🔗 LinkedIn : (ajoute ton lien)  
-💼 GitHub : https://github.com/tonusername  
+📧 Email : agossoutoussaint969@email.com  
+💼 GitHub : https://github.com/at969
 
----
 
-⭐ Si tu es recruteur ou développeur, n’hésite pas à explorer mes projets !
