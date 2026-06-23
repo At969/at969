@@ -177,3 +177,6 @@ Je souhaite intégrer une équipe tech dynamique afin de :
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=120&section=footer" width="100%"/>
 </div>
+<div align="center">
+  <img width="949" height="234" alt="image" src="https://github.com/user-attachments/assets/e6449401-93fe-4701-a0f0-6fe096ab5aa1" />
+</div>
